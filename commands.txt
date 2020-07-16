@@ -1,0 +1,33 @@
+**How to login using username email and password on github from computer**
+ https://docs.github.com/en/github/using-git/setting-your-username-in-git
+      
+                
+                **Git Commands**
+git clone  ---- Copies a version of code from github to local computer
+git status ---- compares the version on the computer with the version on github
+git add .  ---- declare all files to be added to github. 
+git merge  ---- Merges two branches on github
+git push   ---- Sends the code's newest version to github
+git checkout -- Shifts from one branch to another. 
+git stash  ---- drop the changes
+git commit ---- Confirms the files to be sent to github
+
+
+                **commandline Interface (CLI) Commands**
+CREATING A NEW FILE
+touch filename.extension  ==> creates a new file. Works on linux and Mac. May not work on Windows
+"content text" > filename.extension ==> Creating a new file on windows cmd || notepad++, sublime text
+mkdir --> make directory/folder -- works on linix/mac/wondows
+cd folderName => change directory
+cd .. ==> shifts out of a directory by a single step
+pwd => present working directory => shows the current path of the folder. works mac/linux
+ls ==> lists items inside a folder
+tree ==> shows all items inside a path folder, including other folders and files. 
+cls ==> clear screen ==> works mainly in works on windows
+clear ==> clear screen ==> works mainly in works on linux/mac
+
+
+unix ----code base ---Mac
+             |--------Linux
+
+DOS  -----code base --Windows
